@@ -1,5 +1,5 @@
 num=[10,20,30,40]
 print("orignal list:",num)
-num.append
-element=int(input("enter the element"))
-print("updated list:",list)
+element=int(input("enter the element to add:"))
+num.append(element)
+print("updated list:",num)
