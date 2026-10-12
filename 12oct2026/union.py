@@ -1,1 +1,2 @@
- {1,2}union({2,3})
+union = {1,2}.union({2,3})
+print
