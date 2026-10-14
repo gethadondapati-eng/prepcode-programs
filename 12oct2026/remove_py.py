@@ -1,3 +1,3 @@
-n ={1,2,3,4}
-n.remove(3)
-print(n)
+k =[12,32,34,54]
+k.remove(34)
+print(k)
