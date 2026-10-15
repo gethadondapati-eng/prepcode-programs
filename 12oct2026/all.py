@@ -1,2 +1,2 @@
-a = all([0,True,9])
+a = all([0,False,7])
 print(a)
