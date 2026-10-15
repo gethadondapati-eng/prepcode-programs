@@ -1,4 +1,4 @@
 try:
     print(int("abc"))
 except:
-    print("Invalid input")    
+    print("Give the Numbers as a input")    
