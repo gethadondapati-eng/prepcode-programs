@@ -1,2 +1,2 @@
-a = any((0,false,8))
+a = any((0,False,8))
 print(a)
